@@ -23,7 +23,6 @@ int main()
     }
     cout << "Item Sebelumnya: "<<item_sebelumnya<<endl;
 
-
     if(item_pertama==1){
             item_terhebat=nama_item;
             stat_terhebat=stat;
